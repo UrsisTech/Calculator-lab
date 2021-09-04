@@ -1,0 +1,17 @@
+[Data Source]
+DisplayName=Contacts
+Enabled=true
+Parent=6a7131a0aff136018f1b16b9239ed5b0e31e5c1d
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=reinsaway@gmail.com
+CredentialName=
+IsExternal=false
+
+[Address Book]
+BackendName=google

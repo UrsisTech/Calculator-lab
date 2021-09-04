@@ -1,9 +1,37 @@
 .display {
     background-color: rgb(201, 201, 201);
     padding: 15px;
-    width: 250px;
+    width: 340px;
     text-align: right;
     font-size: 20px;
     border-top-left-radius:20px;
     border-top-right-radius:20px;
+}
+
+button {
+    padding: 10px;
+    width: 67px;
+    height: 45px;
+    margin-top: 10px;
+    background-color: rgb(194, 194, 194);
+    color: black;
+    font-size: 20px;
+    
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgb(182, 178, 178);
+   }
+   button:active {
+    background-color: rgb(136, 136, 136);
+   }
+
+#calc-body {
+    background:rgb(230, 148, 148);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 350px;
+    padding-left: 20px;
+    
 }
